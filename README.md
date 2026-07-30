@@ -1,5 +1,5 @@
 # EPAM-project-26
-my information:
+My information;
 name: Yuvraj Singh Bais,
 enrolment: 0157AL241233,
 college: LNCTS,
